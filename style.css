@@ -39,10 +39,12 @@
   margin: 0;
   padding: 0px;
 }
-.task-item, .subtitle {
+.task-item,
+.subtitle {
   list-style: none;
 }
-.task-input,.task-btn{
+.task-input,
+.task-btn{
   outline: none;
 }
 .task-btn {
